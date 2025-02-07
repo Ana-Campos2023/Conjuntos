@@ -1,4 +1,6 @@
+
 <?php
+//trabajo de programacion orientada a objetos
 class conjuntos {
     private $tamano;
     private $datos = [];
